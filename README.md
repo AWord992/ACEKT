@@ -1,1 +1,1 @@
-This is code of ACE-KT for openreview.
+This is the source code of ACE-KT.
